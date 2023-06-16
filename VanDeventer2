@@ -37,6 +37,22 @@
           }
         },
         "features": [
+            {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                4306,
+                5655
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.7140517,
+                51.0547363
+              ]
+            }
+          },
           {
             "type": "Feature",
             "properties": {
