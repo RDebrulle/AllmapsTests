@@ -31,8 +31,7 @@
         "type": "FeatureCollection",
         "purpose": "gcp-georeferencing",
         "transformation": {
-          "type": "polynomial",
-          "order": 0
+          "type": "thinPlateSpline"
         },
         "features": [
           {
