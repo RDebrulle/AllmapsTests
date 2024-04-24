@@ -1,0 +1,759 @@
+{
+  "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be:54216CFE-B0E0-11E6-B390-ABD6D43445F2",
+  "attribution": "Provided by Ghent University Library",
+  "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+  "label": "Groot plan van Gent gemaakt in 1619 door den landmeter Jacq. Horenbault",
+  "service": [
+    {
+      "accessHint": "lib",
+      "profile": "https://adore.ugent.be/IIIF/ld-ext/0/access-control-hints",
+      "@id": "https://adore.ugent.be/IIIF/ld-ext/0/access-control-hints-service",
+      "@context": "https://adore.ugent.be/IIIF/ld-ext/0/context.json"
+    }
+  ],
+  "metadata": [
+    {
+      "label": "Record",
+      "value": "\u003Ca href=\"https://lib.ugent.be/catalog/rug01:001403130/items/000000944180\"\u003Ehttps://lib.ugent.be/catalog/rug01:001403130/items/000000944180\u003C/a\u003E"
+    },
+    {
+      "value": "Horenbault, Jacques, active 1619 (viaf)286213452",
+      "label": "Author"
+    },
+    {
+      "value": "Heins, Armand 1856-1938 (viaf)34677651",
+      "label": "Author"
+    },
+    {
+      "label": "Author",
+      "value": "Vander Haeghen, Victor, 1854-1916 (viaf)37052539"
+    },
+    {
+      "value": "[map] Groot plan van Gent gemaakt in 1619 door den landmeter Jacq. Horenbault / Chromolithographische fac-simile uitgevoerd door Armand Heins ; met een verklarend bijschrift door Victor Van der Haeghen.",
+      "label": "Title"
+    },
+    {
+      "value": "1 kaart verdeeld over 15 kaartbladen in een map : steendruk, gekleurd ; elk 40 x 54,5 cm.",
+      "label": "Description"
+    },
+    {
+      "value": "Gand : N. Heins, 1900.",
+      "label": "Publisher"
+    },
+    {
+      "value": "Herkomst: exemplaar van Prosper Claeys no. 17, van Victor Vander Haeghen no. 77",
+      "label": "Provenance"
+    },
+    {
+      "value": "archive.ugent.be:54216CFE-B0E0-11E6-B390-ABD6D43445F2",
+      "label": "Object ID"
+    },
+    {
+      "label": "Barcode",
+      "value": "000000944180"
+    },
+    {
+      "label": "Callnr",
+      "value": "BRKZ.KRT.1158"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/sequences/0",
+      "@type": "sc:Sequence",
+      "rendering": [
+        {
+          "format": "application/zip",
+          "label": "Download all images (3.16 GB)",
+          "@id": "https://lib.ugent.be/catalog/rug01:001403130/requests/new?objectid=archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2"
+        }
+      ],
+      "viewingDirection": "left-to-right",
+      "startCanvas": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.2",
+      "canvases": [
+        {
+          "height": 9574,
+          "rendering": [
+            {
+              "label": "Download as jpeg2000 (79.55 MB)",
+              "@id": "https://adore.ugent.be/OpenURL/resolve?rft_id=archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.2&svc_id=original",
+              "format": "image/jp2"
+            }
+          ],
+          "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.2",
+          "images": [
+            {
+              "motivation": "sc:Painting",
+              "resource": {
+                "height": 9574,
+                "format": "image/jpeg",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.2"
+                },
+                "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "label": "000000944180_2016_0001_AC.jp2",
+                "width": 7218
+              },
+              "@type": "oa:Annotation",
+              "on": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.2",
+              "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.2/image-annotations/0"
+            }
+          ],
+          "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Provided by Ghent University Library",
+          "thumbnail": {
+            "format": "image/jpeg",
+            "@type": "dctypes:Image",
+            "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.2/0,0,7218,9574/226,/0/default.jpg",
+            "width": 226,
+            "height": 300
+          },
+          "@type": "sc:Canvas",
+          "label": "1",
+          "width": 7218
+        },
+        {
+          "thumbnail": {
+            "height": 300,
+            "width": 226,
+            "@type": "dctypes:Image",
+            "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.5/0,0,7286,9656/226,/0/default.jpg",
+            "format": "image/jpeg"
+          },
+          "width": 7286,
+          "label": "2",
+          "@type": "sc:Canvas",
+          "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.5/full/full/0/default.jpg",
+                "width": 7286,
+                "label": "000000944180_2016_0002_AC.jp2",
+                "format": "image/jpeg",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.5",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "height": 9656
+              },
+              "@type": "oa:Annotation",
+              "on": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.5",
+              "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.5/image-annotations/0",
+              "motivation": "sc:Painting"
+            }
+          ],
+          "attribution": "Provided by Ghent University Library",
+          "rendering": [
+            {
+              "label": "Download as jpeg2000 (75.04 MB)",
+              "@id": "https://adore.ugent.be/OpenURL/resolve?rft_id=archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.5&svc_id=original",
+              "format": "image/jp2"
+            }
+          ],
+          "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.5",
+          "height": 9656
+        },
+        {
+          "height": 9640,
+          "rendering": [
+            {
+              "@id": "https://adore.ugent.be/OpenURL/resolve?rft_id=archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.7&svc_id=original",
+              "label": "Download as jpeg2000 (70.15 MB)",
+              "format": "image/jp2"
+            }
+          ],
+          "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.7",
+          "images": [
+            {
+              "motivation": "sc:Painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.7/full/full/0/default.jpg",
+                "label": "000000944180_2016_0003_AC.jp2",
+                "width": 7308,
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.7",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "height": 9640
+              },
+              "on": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.7",
+              "@type": "oa:Annotation",
+              "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.7/image-annotations/0"
+            }
+          ],
+          "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Provided by Ghent University Library",
+          "thumbnail": {
+            "height": 298,
+            "format": "image/jpeg",
+            "width": 226,
+            "@type": "dctypes:Image",
+            "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.7/0,0,7308,9640/226,/0/default.jpg"
+          },
+          "@type": "sc:Canvas",
+          "width": 7308,
+          "label": "3"
+        },
+        {
+          "images": [
+            {
+              "motivation": "sc:Painting",
+              "@type": "oa:Annotation",
+              "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.9/image-annotations/0",
+              "on": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.9",
+              "resource": {
+                "height": 9602,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.9"
+                },
+                "format": "image/jpeg",
+                "label": "000000944180_2016_0004_AC.jp2",
+                "width": 7274,
+                "@type": "dctypes:Image",
+                "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.9/full/full/0/default.jpg"
+              }
+            }
+          ],
+          "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Provided by Ghent University Library",
+          "thumbnail": {
+            "format": "image/jpeg",
+            "width": 226,
+            "@type": "dctypes:Image",
+            "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.9/0,0,7274,9602/226,/0/default.jpg",
+            "height": 298
+          },
+          "@type": "sc:Canvas",
+          "width": 7274,
+          "label": "4",
+          "height": 9602,
+          "rendering": [
+            {
+              "@id": "https://adore.ugent.be/OpenURL/resolve?rft_id=archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.9&svc_id=original",
+              "label": "Download as jpeg2000 (69.89 MB)",
+              "format": "image/jp2"
+            }
+          ],
+          "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.9"
+        },
+        {
+          "attribution": "Provided by Ghent University Library",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "on": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.11",
+              "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.11/image-annotations/0",
+              "resource": {
+                "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.11/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 7296,
+                "label": "000000944180_2016_0005_AC.jp2",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.11",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "height": 9642
+              },
+              "motivation": "sc:Painting"
+            }
+          ],
+          "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+          "@type": "sc:Canvas",
+          "width": 7296,
+          "label": "5",
+          "thumbnail": {
+            "height": 299,
+            "format": "image/jpeg",
+            "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.11/0,0,7296,9642/226,/0/default.jpg",
+            "@type": "dctypes:Image",
+            "width": 226
+          },
+          "height": 9642,
+          "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.11",
+          "rendering": [
+            {
+              "@id": "https://adore.ugent.be/OpenURL/resolve?rft_id=archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.11&svc_id=original",
+              "label": "Download as jpeg2000 (72.76 MB)",
+              "format": "image/jp2"
+            }
+          ]
+        },
+        {
+          "attribution": "Provided by Ghent University Library",
+          "images": [
+            {
+              "motivation": "sc:Painting",
+              "on": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.13",
+              "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.13/image-annotations/0",
+              "@type": "oa:Annotation",
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.13",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "@type": "dctypes:Image",
+                "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.13/full/full/0/default.jpg",
+                "width": 7302,
+                "label": "000000944180_2016_0006_AC.jp2",
+                "height": 9560
+              }
+            }
+          ],
+          "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+          "@type": "sc:Canvas",
+          "width": 7302,
+          "label": "6",
+          "thumbnail": {
+            "height": 296,
+            "format": "image/jpeg",
+            "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.13/0,0,7302,9560/226,/0/default.jpg",
+            "@type": "dctypes:Image",
+            "width": 226
+          },
+          "height": 9560,
+          "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.13",
+          "rendering": [
+            {
+              "format": "image/jp2",
+              "label": "Download as jpeg2000 (87.66 MB)",
+              "@id": "https://adore.ugent.be/OpenURL/resolve?rft_id=archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.13&svc_id=original"
+            }
+          ]
+        },
+        {
+          "height": 9606,
+          "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.15",
+          "rendering": [
+            {
+              "format": "image/jp2",
+              "label": "Download as jpeg2000 (72.43 MB)",
+              "@id": "https://adore.ugent.be/OpenURL/resolve?rft_id=archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.15&svc_id=original"
+            }
+          ],
+          "attribution": "Provided by Ghent University Library",
+          "images": [
+            {
+              "motivation": "sc:Painting",
+              "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.15/image-annotations/0",
+              "on": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.15",
+              "@type": "oa:Annotation",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.15/full/full/0/default.jpg",
+                "label": "000000944180_2016_0007_AC.jp2",
+                "width": 7282,
+                "format": "image/jpeg",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.15",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "height": 9606
+              }
+            }
+          ],
+          "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+          "@type": "sc:Canvas",
+          "width": 7282,
+          "label": "7",
+          "thumbnail": {
+            "height": 298,
+            "format": "image/jpeg",
+            "width": 226,
+            "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.15/0,0,7282,9606/226,/0/default.jpg",
+            "@type": "dctypes:Image"
+          }
+        },
+        {
+          "thumbnail": {
+            "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.17/0,0,7282,9668/226,/0/default.jpg",
+            "@type": "dctypes:Image",
+            "width": 226,
+            "format": "image/jpeg",
+            "height": 300
+          },
+          "@type": "sc:Canvas",
+          "width": 7282,
+          "label": "8",
+          "images": [
+            {
+              "on": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.17",
+              "@type": "oa:Annotation",
+              "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.17/image-annotations/0",
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.17",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "@type": "dctypes:Image",
+                "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.17/full/full/0/default.jpg",
+                "width": 7282,
+                "label": "000000944180_2016_0008_AC.jp2",
+                "height": 9668
+              },
+              "motivation": "sc:Painting"
+            }
+          ],
+          "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Provided by Ghent University Library",
+          "rendering": [
+            {
+              "format": "image/jp2",
+              "label": "Download as jpeg2000 (74.52 MB)",
+              "@id": "https://adore.ugent.be/OpenURL/resolve?rft_id=archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.17&svc_id=original"
+            }
+          ],
+          "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.17",
+          "height": 9668
+        },
+        {
+          "height": 9652,
+          "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.19",
+          "rendering": [
+            {
+              "label": "Download as jpeg2000 (75.88 MB)",
+              "@id": "https://adore.ugent.be/OpenURL/resolve?rft_id=archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.19&svc_id=original",
+              "format": "image/jp2"
+            }
+          ],
+          "attribution": "Provided by Ghent University Library",
+          "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+          "images": [
+            {
+              "motivation": "sc:Painting",
+              "resource": {
+                "height": 9652,
+                "width": 7296,
+                "label": "000000944180_2016_0009_AC.jp2",
+                "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.19/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.19"
+                },
+                "format": "image/jpeg"
+              },
+              "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.19/image-annotations/0",
+              "on": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.19",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "width": 7296,
+          "label": "9",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "width": 226,
+            "@type": "dctypes:Image",
+            "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.19/0,0,7296,9652/226,/0/default.jpg",
+            "format": "image/jpeg",
+            "height": 299
+          }
+        },
+        {
+          "rendering": [
+            {
+              "label": "Download as jpeg2000 (70.81 MB)",
+              "@id": "https://adore.ugent.be/OpenURL/resolve?rft_id=archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.21&svc_id=original",
+              "format": "image/jp2"
+            }
+          ],
+          "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.21",
+          "height": 9662,
+          "thumbnail": {
+            "height": 300,
+            "width": 226,
+            "@type": "dctypes:Image",
+            "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.21/0,0,7288,9662/226,/0/default.jpg",
+            "format": "image/jpeg"
+          },
+          "label": "10",
+          "width": 7288,
+          "@type": "sc:Canvas",
+          "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+          "images": [
+            {
+              "resource": {
+                "height": 9662,
+                "label": "000000944180_2016_0010_AC.jp2",
+                "width": 7288,
+                "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.21/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.21",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "format": "image/jpeg"
+              },
+              "@type": "oa:Annotation",
+              "on": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.21",
+              "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.21/image-annotations/0",
+              "motivation": "sc:Painting"
+            }
+          ],
+          "attribution": "Provided by Ghent University Library"
+        },
+        {
+          "height": 9658,
+          "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.23",
+          "rendering": [
+            {
+              "label": "Download as jpeg2000 (76.44 MB)",
+              "@id": "https://adore.ugent.be/OpenURL/resolve?rft_id=archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.23&svc_id=original",
+              "format": "image/jp2"
+            }
+          ],
+          "attribution": "Provided by Ghent University Library",
+          "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+          "images": [
+            {
+              "motivation": "sc:Painting",
+              "on": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.23",
+              "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.23/image-annotations/0",
+              "@type": "oa:Annotation",
+              "resource": {
+                "format": "image/jpeg",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.23",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.23/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 7300,
+                "label": "000000944180_2016_0011_AC.jp2",
+                "height": 9658
+              }
+            }
+          ],
+          "width": 7300,
+          "label": "11",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "format": "image/jpeg",
+            "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.23/0,0,7300,9658/226,/0/default.jpg",
+            "@type": "dctypes:Image",
+            "width": 226,
+            "height": 299
+          }
+        },
+        {
+          "thumbnail": {
+            "height": 300,
+            "format": "image/jpeg",
+            "width": 226,
+            "@type": "dctypes:Image",
+            "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.25/0,0,7270,9658/226,/0/default.jpg"
+          },
+          "@type": "sc:Canvas",
+          "label": "12",
+          "width": 7270,
+          "images": [
+            {
+              "motivation": "sc:Painting",
+              "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.25/image-annotations/0",
+              "@type": "oa:Annotation",
+              "on": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.25",
+              "resource": {
+                "height": 9658,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.25",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "format": "image/jpeg",
+                "label": "000000944180_2016_0012_AC.jp2",
+                "width": 7270,
+                "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.25/full/full/0/default.jpg",
+                "@type": "dctypes:Image"
+              }
+            }
+          ],
+          "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Provided by Ghent University Library",
+          "rendering": [
+            {
+              "@id": "https://adore.ugent.be/OpenURL/resolve?rft_id=archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.25&svc_id=original",
+              "label": "Download as jpeg2000 (74.72 MB)",
+              "format": "image/jp2"
+            }
+          ],
+          "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.25",
+          "height": 9658
+        },
+        {
+          "height": 9664,
+          "rendering": [
+            {
+              "format": "image/jp2",
+              "label": "Download as jpeg2000 (71.43 MB)",
+              "@id": "https://adore.ugent.be/OpenURL/resolve?rft_id=archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.27&svc_id=original"
+            }
+          ],
+          "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.27",
+          "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+          "images": [
+            {
+              "motivation": "sc:Painting",
+              "resource": {
+                "height": 9664,
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.27",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpeg",
+                "width": 7282,
+                "label": "000000944180_2016_0013_AC.jp2",
+                "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.27/full/full/0/default.jpg",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.27",
+              "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.27/image-annotations/0",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "attribution": "Provided by Ghent University Library",
+          "thumbnail": {
+            "width": 226,
+            "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.27/0,0,7282,9664/226,/0/default.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 300
+          },
+          "width": 7282,
+          "label": "13",
+          "@type": "sc:Canvas"
+        },
+        {
+          "thumbnail": {
+            "format": "image/jpeg",
+            "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.29/0,0,7280,9672/226,/0/default.jpg",
+            "@type": "dctypes:Image",
+            "width": 226,
+            "height": 300
+          },
+          "width": 7280,
+          "label": "14",
+          "@type": "sc:Canvas",
+          "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.29/image-annotations/0",
+              "on": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.29",
+              "resource": {
+                "label": "000000944180_2016_0014_AC.jp2",
+                "width": 7280,
+                "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.29/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.29",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpeg",
+                "height": 9672
+              },
+              "motivation": "sc:Painting"
+            }
+          ],
+          "attribution": "Provided by Ghent University Library",
+          "rendering": [
+            {
+              "@id": "https://adore.ugent.be/OpenURL/resolve?rft_id=archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.29&svc_id=original",
+              "label": "Download as jpeg2000 (73.21 MB)",
+              "format": "image/jp2"
+            }
+          ],
+          "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.29",
+          "height": 9672
+        },
+        {
+          "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+          "images": [
+            {
+              "resource": {
+                "width": 7282,
+                "label": "000000944180_2016_0015_AC.jp2",
+                "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.31/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.31"
+                },
+                "format": "image/jpeg",
+                "height": 9654
+              },
+              "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.31/image-annotations/0",
+              "@type": "oa:Annotation",
+              "on": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.31",
+              "motivation": "sc:Painting"
+            }
+          ],
+          "attribution": "Provided by Ghent University Library",
+          "thumbnail": {
+            "height": 300,
+            "format": "image/jpeg",
+            "width": 226,
+            "@type": "dctypes:Image",
+            "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.31/0,0,7282,9654/226,/0/default.jpg"
+          },
+          "label": "15",
+          "width": 7282,
+          "@type": "sc:Canvas",
+          "height": 9654,
+          "rendering": [
+            {
+              "label": "Download as jpeg2000 (70.98 MB)",
+              "@id": "https://adore.ugent.be/OpenURL/resolve?rft_id=archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.31&svc_id=original",
+              "format": "image/jp2"
+            }
+          ],
+          "@id": "https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2/canvases/DS.31"
+        }
+      ]
+    }
+  ],
+  "seeAlso": {
+    "format": "application/marcxml+xml",
+    "label": "Bibliographical description in MARC XML",
+    "@id": "https://lib.ugent.be/catalog/rug01:001403130.marcxml"
+  },
+  "description": "",
+  "related": [
+    {
+      "format": "text/html",
+      "@id": "https://lib.ugent.be/viewer/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2"
+    }
+  ],
+  "@type": "sc:Manifest",
+  "logo": "https://adore.ugent.be/IIIF/img/logo_i.svg",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "thumbnail": {
+    "format": "image/jpeg",
+    "width": 226,
+    "@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be%3A54216CFE-B0E0-11E6-B390-ABD6D43445F2%3ADS.2/full/226,/0/default.jpg",
+    "@type": "dctypes:Image",
+    "height": 300
+  }
+}
