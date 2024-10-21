@@ -1,0 +1,172 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/ebkxfz37d6p-m2isjdr8",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Blank Manifest"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://example.org/ebkxfz37d6p-m2isjdr8/canvas/xunejwowruf-m2isk8tw",
+      "type": "Canvas",
+      "height": 2983,
+      "width": 4000,
+      "label": {
+        "en": [
+          "Comitatus Flandria"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/ebkxfz37d6p-m2isjdr8/canvas/xunejwowruf-m2isk8tw/annotation-page/fqwmqvij21h-m2isk8tw",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/ebkxfz37d6p-m2isjdr8/annotation/ykofvaw3zm-m2isk5bn",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/ebkxfz37d6p-m2isjdr8/canvas/xunejwowruf-m2isk8tw",
+              "body": {
+                "id": "https://adore.ugent.be/IIIF/v3/images/archive.ugent.be%3AB20C9C0C-79CE-11EF-8094-B85739C97E86%3ADS.2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2983,
+                "width": 4000
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/ebkxfz37d6p-m2isjdr8/canvas/g4j3p8ojjjd-m2ismbd6",
+      "type": "Canvas",
+      "height": 764,
+      "width": 1024,
+      "label": {
+        "en": [
+          "Rechtsboven"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/ebkxfz37d6p-m2isjdr8/canvas/g4j3p8ojjjd-m2ismbd6/annotation-page/z7e93ngi2t-m2ismbd6",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/ebkxfz37d6p-m2isjdr8/annotation/3g534ti19jp-m2ismbce",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/ebkxfz37d6p-m2isjdr8/canvas/g4j3p8ojjjd-m2ismbd6",
+              "body": {
+                "id": "https://adore.ugent.be/IIIF/v3/images/archive.ugent.be%3AB20C9C0C-79CE-11EF-8094-B85739C97E86%3ADS.2/4783,0,4783,3563/1024,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 764,
+                "width": 1024
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/ebkxfz37d6p-m2isjdr8/canvas/u3pm7hxrcni-m2ismzi6",
+      "type": "Canvas",
+      "height": 764,
+      "width": 1024,
+      "label": {
+        "en": [
+          "Rechtsonder"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/ebkxfz37d6p-m2isjdr8/canvas/u3pm7hxrcni-m2ismzi6/annotation-page/6hdhn12my9i-m2ismzi6",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/ebkxfz37d6p-m2isjdr8/annotation/gacc4cj789l-m2ismzb2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/ebkxfz37d6p-m2isjdr8/canvas/u3pm7hxrcni-m2ismzi6",
+              "body": {
+                "id": "https://adore.ugent.be/IIIF/v3/images/archive.ugent.be%3AB20C9C0C-79CE-11EF-8094-B85739C97E86%3ADS.2/4783,3563,4783,3563/1024,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 764,
+                "width": 1024
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/ebkxfz37d6p-m2isjdr8/canvas/bn080bku25p-m2isnqft",
+      "type": "Canvas",
+      "height": 763,
+      "width": 1024,
+      "label": {
+        "en": [
+          "Linksonder"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/ebkxfz37d6p-m2isjdr8/canvas/bn080bku25p-m2isnqft/annotation-page/sq60xwctww-m2isnqft",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/ebkxfz37d6p-m2isjdr8/annotation/s3pewwdhxnb-m2isnq7r",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/ebkxfz37d6p-m2isjdr8/canvas/bn080bku25p-m2isnqft",
+              "body": {
+                "id": "https://adore.ugent.be/IIIF/v3/images/archive.ugent.be%3AB20C9C0C-79CE-11EF-8094-B85739C97E86%3ADS.2/0,3563,4783,3563/1024,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 763,
+                "width": 1024
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/ebkxfz37d6p-m2isjdr8/canvas/s9gell007gk-m2iso31g",
+      "type": "Canvas",
+      "height": 763,
+      "width": 1024,
+      "label": {
+        "en": [
+          "Linksboven"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/ebkxfz37d6p-m2isjdr8/canvas/s9gell007gk-m2iso31g/annotation-page/ukbvss85unc-m2iso31g",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/ebkxfz37d6p-m2isjdr8/annotation/0ses1avqc2ql-m2iso2vg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/ebkxfz37d6p-m2isjdr8/canvas/s9gell007gk-m2iso31g",
+              "body": {
+                "id": "https://adore.ugent.be/IIIF/v3/images/archive.ugent.be%3AB20C9C0C-79CE-11EF-8094-B85739C97E86%3ADS.2/0,0,4783,3563/1024,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 763,
+                "width": 1024
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
