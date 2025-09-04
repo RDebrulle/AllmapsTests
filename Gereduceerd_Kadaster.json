@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://iiif.ghentcdh.ugent.be/iiif/collections/gereduceerd_kadaster:Termonde",
+  "@id": "https://raw.githubusercontent.com/RDebrulle/AllmapsTests/refs/heads/main/Gereduceerd_Kadaster.json",
   "@type": "sc:Collection",
   "label": "Gereduceerd Kadaster",
   "manifests": [ {
