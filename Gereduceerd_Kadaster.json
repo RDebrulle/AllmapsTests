@@ -3,7 +3,8 @@
   "@id": "https://raw.githubusercontent.com/RDebrulle/AllmapsTests/refs/heads/main/Gereduceerd_Kadaster.json",
   "@type": "sc:Collection",
   "label": "Gereduceerd Kadaster",
-  "manifests": [ {
+  "manifests": [ 
+    {
       "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Appels",
       "@type": "sc:Manifest",
       "label": "Appels"
@@ -134,10 +135,10 @@
       "label": "Zele"
     },
     {
-            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Aertselaer",
-            "@type": "sc:Manifest",
-            "label": "Aertselaer"
-        },
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Aertselaer",
+      "@type": "sc:Manifest",
+      "label": "Aertselaer"
+    },
         {
             "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Anvers",
             "@type": "sc:Manifest",
