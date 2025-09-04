@@ -1,0 +1,1247 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.ghentcdh.ugent.be/iiif/collections/gereduceerd_kadaster:Termonde",
+  "@type": "sc:Collection",
+  "label": "Gereduceerd Kadaster",
+  "manifests": [ {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Appels",
+      "@type": "sc:Manifest",
+      "label": "Appels"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Audeghem",
+      "@type": "sc:Manifest",
+      "label": "Audeghem"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Baesrode",
+      "@type": "sc:Manifest",
+      "label": "Baesrode"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Berlaere",
+      "@type": "sc:Manifest",
+      "label": "Berlaere"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Buggenhout",
+      "@type": "sc:Manifest",
+      "label": "Buggenhout"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Calcken",
+      "@type": "sc:Manifest",
+      "label": "Calcken"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Cherscamp",
+      "@type": "sc:Manifest",
+      "label": "Cherscamp"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Denderbelle",
+      "@type": "sc:Manifest",
+      "label": "Denderbelle"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Grembergen",
+      "@type": "sc:Manifest",
+      "label": "Grembergen"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Hamme",
+      "@type": "sc:Manifest",
+      "label": "Hamme"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Laerne",
+      "@type": "sc:Manifest",
+      "label": "Laerne"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Lebbeke",
+      "@type": "sc:Manifest",
+      "label": "Lebbeke"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Massemen-Westrem",
+      "@type": "sc:Manifest",
+      "label": "Massemen-Westrem"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Mespelaere",
+      "@type": "sc:Manifest",
+      "label": "Mespelaere"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Moerzeke",
+      "@type": "sc:Manifest",
+      "label": "Moerzeke"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Opdorp",
+      "@type": "sc:Manifest",
+      "label": "Opdorp"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Overmeire",
+      "@type": "sc:Manifest",
+      "label": "Overmeire"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Schellebelle",
+      "@type": "sc:Manifest",
+      "label": "Schellebelle"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:St_Gilles-lez-Termonde",
+      "@type": "sc:Manifest",
+      "label": "St_Gilles-lez-Termonde"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Termonde",
+      "@type": "sc:Manifest",
+      "label": "Termonde"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Uytbergen",
+      "@type": "sc:Manifest",
+      "label": "Uytbergen"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Waesmunster",
+      "@type": "sc:Manifest",
+      "label": "Waesmunster"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Wetteren",
+      "@type": "sc:Manifest",
+      "label": "Wetteren"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Wichelen",
+      "@type": "sc:Manifest",
+      "label": "Wichelen"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Wieze",
+      "@type": "sc:Manifest",
+      "label": "Wieze"
+    },
+    {
+      "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Termonde:Zele",
+      "@type": "sc:Manifest",
+      "label": "Zele"
+    },
+    {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Aertselaer",
+            "@type": "sc:Manifest",
+            "label": "Aertselaer"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Anvers",
+            "@type": "sc:Manifest",
+            "label": "Anvers"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Austruweel",
+            "@type": "sc:Manifest",
+            "label": "Austruweel"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Beirendrecht",
+            "@type": "sc:Manifest",
+            "label": "Beirendrecht"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Berchem",
+            "@type": "sc:Manifest",
+            "label": "Berchem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Boom",
+            "@type": "sc:Manifest",
+            "label": "Boom"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Borgerhout",
+            "@type": "sc:Manifest",
+            "label": "Borgerhout"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Borsbeeck",
+            "@type": "sc:Manifest",
+            "label": "Borsbeeck"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Bouchout",
+            "@type": "sc:Manifest",
+            "label": "Bouchout"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Brasschaet",
+            "@type": "sc:Manifest",
+            "label": "Brasschaet"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Brecht",
+            "@type": "sc:Manifest",
+            "label": "Brecht"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Broechem",
+            "@type": "sc:Manifest",
+            "label": "Broechem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Calmpthout",
+            "@type": "sc:Manifest",
+            "label": "Calmpthout"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Cappellen",
+            "@type": "sc:Manifest",
+            "label": "Cappellen"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Contich",
+            "@type": "sc:Manifest",
+            "label": "Contich"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Deurne",
+            "@type": "sc:Manifest",
+            "label": "Deurne"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Edegem",
+            "@type": "sc:Manifest",
+            "label": "Edegem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Eekeren",
+            "@type": "sc:Manifest",
+            "label": "Eekeren"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Emblehem",
+            "@type": "sc:Manifest",
+            "label": "Emblehem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Esschen",
+            "@type": "sc:Manifest",
+            "label": "Esschen"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Halle",
+            "@type": "sc:Manifest",
+            "label": "Halle"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Hemixem",
+            "@type": "sc:Manifest",
+            "label": "Hemixem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Hoboken",
+            "@type": "sc:Manifest",
+            "label": "Hoboken"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Hove",
+            "@type": "sc:Manifest",
+            "label": "Hove"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Lillo",
+            "@type": "sc:Manifest",
+            "label": "Lillo"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Loenhout",
+            "@type": "sc:Manifest",
+            "label": "Loenhout"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Massenhoven",
+            "@type": "sc:Manifest",
+            "label": "Massenhoven"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Merxem",
+            "@type": "sc:Manifest",
+            "label": "Merxem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Mortsel",
+            "@type": "sc:Manifest",
+            "label": "Mortsel"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Niel",
+            "@type": "sc:Manifest",
+            "label": "Niel"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Oeleghem",
+            "@type": "sc:Manifest",
+            "label": "Oeleghem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Oorderen",
+            "@type": "sc:Manifest",
+            "label": "Oorderen"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Oostmalle",
+            "@type": "sc:Manifest",
+            "label": "Oostmalle"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Pulderbosch",
+            "@type": "sc:Manifest",
+            "label": "Pulderbosch"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Pulle",
+            "@type": "sc:Manifest",
+            "label": "Pulle"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Ranst",
+            "@type": "sc:Manifest",
+            "label": "Ranst"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Reeth",
+            "@type": "sc:Manifest",
+            "label": "Reeth"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Rumpst",
+            "@type": "sc:Manifest",
+            "label": "Rumpst"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:S_Gravenwezel",
+            "@type": "sc:Manifest",
+            "label": "S_Gravenwezel"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Saint_Leonard",
+            "@type": "sc:Manifest",
+            "label": "Saint_Leonard"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Santhoven",
+            "@type": "sc:Manifest",
+            "label": "Santhoven"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Santvliet",
+            "@type": "sc:Manifest",
+            "label": "Santvliet"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Schelle",
+            "@type": "sc:Manifest",
+            "label": "Schelle"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Schilde",
+            "@type": "sc:Manifest",
+            "label": "Schilde"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Schooten",
+            "@type": "sc:Manifest",
+            "label": "Schooten"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:St_Job_in__t_Goor",
+            "@type": "sc:Manifest",
+            "label": "St_Job_in__t_Goor"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Stabroek",
+            "@type": "sc:Manifest",
+            "label": "Stabroek"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Viersel",
+            "@type": "sc:Manifest",
+            "label": "Viersel"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Vremde",
+            "@type": "sc:Manifest",
+            "label": "Vremde"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Waerloos",
+            "@type": "sc:Manifest",
+            "label": "Waerloos"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Westmalle",
+            "@type": "sc:Manifest",
+            "label": "Westmalle"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Wilmarsdonck",
+            "@type": "sc:Manifest",
+            "label": "Wilmarsdonck"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Wilryck",
+            "@type": "sc:Manifest",
+            "label": "Wilryck"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Wommelghem",
+            "@type": "sc:Manifest",
+            "label": "Wommelghem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Wuestwezel",
+            "@type": "sc:Manifest",
+            "label": "Wuestwezel"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Wyneghem",
+            "@type": "sc:Manifest",
+            "label": "Wyneghem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Anvers:Zoersel",
+            "@type": "sc:Manifest",
+            "label": "Zoersel"
+        },
+{
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Aeltre",
+            "@type": "sc:Manifest",
+            "label": "Aeltre"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Afsn_",
+            "@type": "sc:Manifest",
+            "label": "Afsn_"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Asper",
+            "@type": "sc:Manifest",
+            "label": "Asper"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Astene",
+            "@type": "sc:Manifest",
+            "label": "Astene"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Bachte-Maria-Leerne",
+            "@type": "sc:Manifest",
+            "label": "Bachte-Maria-Leerne"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Baelegem",
+            "@type": "sc:Manifest",
+            "label": "Baelegem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Bayghem",
+            "@type": "sc:Manifest",
+            "label": "Bayghem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Bellem",
+            "@type": "sc:Manifest",
+            "label": "Bellem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Bottelaere",
+            "@type": "sc:Manifest",
+            "label": "Bottelaere"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Destelbergen",
+            "@type": "sc:Manifest",
+            "label": "Destelbergen"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Desteldonck",
+            "@type": "sc:Manifest",
+            "label": "Desteldonck"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Deurle",
+            "@type": "sc:Manifest",
+            "label": "Deurle"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Deynze",
+            "@type": "sc:Manifest",
+            "label": "Deynze"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Dickelvenne",
+            "@type": "sc:Manifest",
+            "label": "Dickelvenne"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Eecke",
+            "@type": "sc:Manifest",
+            "label": "Eecke"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Evergem",
+            "@type": "sc:Manifest",
+            "label": "Evergem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Gand",
+            "@type": "sc:Manifest",
+            "label": "Gand"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Gavere",
+            "@type": "sc:Manifest",
+            "label": "Gavere"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Gendbrugge",
+            "@type": "sc:Manifest",
+            "label": "Gendbrugge"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Gontrode",
+            "@type": "sc:Manifest",
+            "label": "Gontrode"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Gotthem",
+            "@type": "sc:Manifest",
+            "label": "Gotthem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Grammene",
+            "@type": "sc:Manifest",
+            "label": "Grammene"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Gysenzeele",
+            "@type": "sc:Manifest",
+            "label": "Gysenzeele"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Hansbeke",
+            "@type": "sc:Manifest",
+            "label": "Hansbeke"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Heusden",
+            "@type": "sc:Manifest",
+            "label": "Heusden"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Knesselaere",
+            "@type": "sc:Manifest",
+            "label": "Knesselaere"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Laethem-St_Martin",
+            "@type": "sc:Manifest",
+            "label": "Laethem-St_Martin"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Landegem",
+            "@type": "sc:Manifest",
+            "label": "Landegem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Landscauter",
+            "@type": "sc:Manifest",
+            "label": "Landscauter"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Ledeberg",
+            "@type": "sc:Manifest",
+            "label": "Ledeberg"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Leerne-St_Martin",
+            "@type": "sc:Manifest",
+            "label": "Leerne-St_Martin"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Lemberge",
+            "@type": "sc:Manifest",
+            "label": "Lemberge"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Loochristy",
+            "@type": "sc:Manifest",
+            "label": "Loochristy"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Lootenhulle",
+            "@type": "sc:Manifest",
+            "label": "Lootenhulle"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Lovendegem",
+            "@type": "sc:Manifest",
+            "label": "Lovendegem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Machelen",
+            "@type": "sc:Manifest",
+            "label": "Machelen"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Mariakerke",
+            "@type": "sc:Manifest",
+            "label": "Mariakerke"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Meerendr_",
+            "@type": "sc:Manifest",
+            "label": "Meerendr_"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Meirelbeke",
+            "@type": "sc:Manifest",
+            "label": "Meirelbeke"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Melle",
+            "@type": "sc:Manifest",
+            "label": "Melle"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Melsen",
+            "@type": "sc:Manifest",
+            "label": "Melsen"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Mendonk",
+            "@type": "sc:Manifest",
+            "label": "Mendonk"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Meygem",
+            "@type": "sc:Manifest",
+            "label": "Meygem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Moerbeke",
+            "@type": "sc:Manifest",
+            "label": "Moerbeke"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Moortzeele",
+            "@type": "sc:Manifest",
+            "label": "Moortzeele"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Munte",
+            "@type": "sc:Manifest",
+            "label": "Munte"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Nazareth",
+            "@type": "sc:Manifest",
+            "label": "Nazareth"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Nevele",
+            "@type": "sc:Manifest",
+            "label": "Nevele"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Olsene",
+            "@type": "sc:Manifest",
+            "label": "Olsene"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Oostacker",
+            "@type": "sc:Manifest",
+            "label": "Oostacker"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Oosterzeele",
+            "@type": "sc:Manifest",
+            "label": "Oosterzeele"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Oostwinkel",
+            "@type": "sc:Manifest",
+            "label": "Oostwinkel"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Peteghem",
+            "@type": "sc:Manifest",
+            "label": "Peteghem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Poesele",
+            "@type": "sc:Manifest",
+            "label": "Poesele"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Poucques",
+            "@type": "sc:Manifest",
+            "label": "Poucques"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Ronsele",
+            "@type": "sc:Manifest",
+            "label": "Ronsele"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Saffelaere",
+            "@type": "sc:Manifest",
+            "label": "Saffelaere"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Schelderode",
+            "@type": "sc:Manifest",
+            "label": "Schelderode"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Scheldewindeke",
+            "@type": "sc:Manifest",
+            "label": "Scheldewindeke"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Seevergem",
+            "@type": "sc:Manifest",
+            "label": "Seevergem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Semmerzaeke",
+            "@type": "sc:Manifest",
+            "label": "Semmerzaeke"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Seveneeken",
+            "@type": "sc:Manifest",
+            "label": "Seveneeken"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Sleydinghe",
+            "@type": "sc:Manifest",
+            "label": "Sleydinghe"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Somergem",
+            "@type": "sc:Manifest",
+            "label": "Somergem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:St_Denis-Westrem",
+            "@type": "sc:Manifest",
+            "label": "St_Denis-Westrem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Swynaerde",
+            "@type": "sc:Manifest",
+            "label": "Swynaerde"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Tronchiennes",
+            "@type": "sc:Manifest",
+            "label": "Tronchiennes"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Ursel",
+            "@type": "sc:Manifest",
+            "label": "Ursel"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Vinderhaute",
+            "@type": "sc:Manifest",
+            "label": "Vinderhaute"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Vosselaere",
+            "@type": "sc:Manifest",
+            "label": "Vosselaere"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Vurste",
+            "@type": "sc:Manifest",
+            "label": "Vurste"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Vynckt",
+            "@type": "sc:Manifest",
+            "label": "Vynckt"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Wachtebeke",
+            "@type": "sc:Manifest",
+            "label": "Wachtebeke"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Waerschoot",
+            "@type": "sc:Manifest",
+            "label": "Waerschoot"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Wondelgem",
+            "@type": "sc:Manifest",
+            "label": "Wondelgem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Wontergem",
+            "@type": "sc:Manifest",
+            "label": "Wontergem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Wynkel",
+            "@type": "sc:Manifest",
+            "label": "Wynkel"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Zeveren",
+            "@type": "sc:Manifest",
+            "label": "Zeveren"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Gand:Zulte",
+            "@type": "sc:Manifest",
+            "label": "Zulte"
+        },
+{
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Basel",
+            "@type": "sc:Manifest",
+            "label": "Basel"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Belcele",
+            "@type": "sc:Manifest",
+            "label": "Belcele"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Beveren",
+            "@type": "sc:Manifest",
+            "label": "Beveren"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Burght",
+            "@type": "sc:Manifest",
+            "label": "Burght"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Calloo",
+            "@type": "sc:Manifest",
+            "label": "Calloo"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Clinge__La_",
+            "@type": "sc:Manifest",
+            "label": "Clinge__La_"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Cruybeke",
+            "@type": "sc:Manifest",
+            "label": "Cruybeke"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Dacknam",
+            "@type": "sc:Manifest",
+            "label": "Dacknam"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Doel",
+            "@type": "sc:Manifest",
+            "label": "Doel"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Elversele",
+            "@type": "sc:Manifest",
+            "label": "Elversele"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Exaerde",
+            "@type": "sc:Manifest",
+            "label": "Exaerde"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Haesdonck",
+            "@type": "sc:Manifest",
+            "label": "Haesdonck"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Kemseke",
+            "@type": "sc:Manifest",
+            "label": "Kemseke"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Kieldrecht",
+            "@type": "sc:Manifest",
+            "label": "Kieldrecht"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Lokeren",
+            "@type": "sc:Manifest",
+            "label": "Lokeren"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Meerdonck",
+            "@type": "sc:Manifest",
+            "label": "Meerdonck"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Melsele",
+            "@type": "sc:Manifest",
+            "label": "Melsele"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Nieukerken",
+            "@type": "sc:Manifest",
+            "label": "Nieukerken"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Rupelmonde",
+            "@type": "sc:Manifest",
+            "label": "Rupelmonde"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Sinay",
+            "@type": "sc:Manifest",
+            "label": "Sinay"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:St_Gilles-Waes",
+            "@type": "sc:Manifest",
+            "label": "St_Gilles-Waes"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:St_Nicolas",
+            "@type": "sc:Manifest",
+            "label": "St_Nicolas"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:St_Paul",
+            "@type": "sc:Manifest",
+            "label": "St_Paul"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Stekene",
+            "@type": "sc:Manifest",
+            "label": "Stekene"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Tamise",
+            "@type": "sc:Manifest",
+            "label": "Tamise"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Thielrode",
+            "@type": "sc:Manifest",
+            "label": "Thielrode"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Verrebroek",
+            "@type": "sc:Manifest",
+            "label": "Verrebroek"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Vracene",
+            "@type": "sc:Manifest",
+            "label": "Vracene"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:SaintNicolas:Zwyndrecht",
+            "@type": "sc:Manifest",
+            "label": "Zwyndrecht"
+        },
+{
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Beersel",
+            "@type": "sc:Manifest",
+            "label": "Beersel"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Berlaer",
+            "@type": "sc:Manifest",
+            "label": "Berlaer"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Bevel",
+            "@type": "sc:Manifest",
+            "label": "Bevel"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Blaesveld",
+            "@type": "sc:Manifest",
+            "label": "Blaesveld"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Boisschot",
+            "@type": "sc:Manifest",
+            "label": "Boisschot"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Bonheyden",
+            "@type": "sc:Manifest",
+            "label": "Bonheyden"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Bornhem",
+            "@type": "sc:Manifest",
+            "label": "Bornhem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Breendonck",
+            "@type": "sc:Manifest",
+            "label": "Breendonck"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Duffel",
+            "@type": "sc:Manifest",
+            "label": "Duffel"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Gestel",
+            "@type": "sc:Manifest",
+            "label": "Gestel"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Heffen",
+            "@type": "sc:Manifest",
+            "label": "Heffen"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Heyndonck",
+            "@type": "sc:Manifest",
+            "label": "Heyndonck"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Heyst-op-den-Berg",
+            "@type": "sc:Manifest",
+            "label": "Heyst-op-den-Berg"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Hingene",
+            "@type": "sc:Manifest",
+            "label": "Hingene"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Hombeeck",
+            "@type": "sc:Manifest",
+            "label": "Hombeeck"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Iteghem",
+            "@type": "sc:Manifest",
+            "label": "Iteghem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Kessel",
+            "@type": "sc:Manifest",
+            "label": "Kessel"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Konings-Hoyckt",
+            "@type": "sc:Manifest",
+            "label": "Konings-Hoyckt"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Leest",
+            "@type": "sc:Manifest",
+            "label": "Leest"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Lierre",
+            "@type": "sc:Manifest",
+            "label": "Lierre"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Liezele",
+            "@type": "sc:Manifest",
+            "label": "Liezele"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Lippeloo",
+            "@type": "sc:Manifest",
+            "label": "Lippeloo"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Malines",
+            "@type": "sc:Manifest",
+            "label": "Malines"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Mariekerke",
+            "@type": "sc:Manifest",
+            "label": "Mariekerke"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Nylen",
+            "@type": "sc:Manifest",
+            "label": "Nylen"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Oppuers",
+            "@type": "sc:Manifest",
+            "label": "Oppuers"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Puers",
+            "@type": "sc:Manifest",
+            "label": "Puers"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Putte",
+            "@type": "sc:Manifest",
+            "label": "Putte"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Ruysbroeck",
+            "@type": "sc:Manifest",
+            "label": "Ruysbroeck"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Rymenam",
+            "@type": "sc:Manifest",
+            "label": "Rymenam"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Saint-Amand",
+            "@type": "sc:Manifest",
+            "label": "Saint-Amand"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Schriek",
+            "@type": "sc:Manifest",
+            "label": "Schriek"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Thisselt",
+            "@type": "sc:Manifest",
+            "label": "Thisselt"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Waelhem",
+            "@type": "sc:Manifest",
+            "label": "Waelhem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Wavre-Notre-Dame",
+            "@type": "sc:Manifest",
+            "label": "Wavre-Notre-Dame"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Wavre-Sainte-Catherine",
+            "@type": "sc:Manifest",
+            "label": "Wavre-Sainte-Catherine"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Weert",
+            "@type": "sc:Manifest",
+            "label": "Weert"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Wiekevorst",
+            "@type": "sc:Manifest",
+            "label": "Wiekevorst"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Malines:Willebroeck",
+            "@type": "sc:Manifest",
+            "label": "Willebroeck"
+        },
+{
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Eecloo:Adegem",
+            "@type": "sc:Manifest",
+            "label": "Adegem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Eecloo:Assenede",
+            "@type": "sc:Manifest",
+            "label": "Assenede"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Eecloo:Bassevelde",
+            "@type": "sc:Manifest",
+            "label": "Bassevelde"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Eecloo:Bouchaute",
+            "@type": "sc:Manifest",
+            "label": "Bouchaute"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Eecloo:Caprycke",
+            "@type": "sc:Manifest",
+            "label": "Caprycke"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Eecloo:Cluysen",
+            "@type": "sc:Manifest",
+            "label": "Cluysen"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Eecloo:Eecloo",
+            "@type": "sc:Manifest",
+            "label": "Eecloo"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Eecloo:Ertvelde",
+            "@type": "sc:Manifest",
+            "label": "Ertvelde"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Eecloo:Lembeke",
+            "@type": "sc:Manifest",
+            "label": "Lembeke"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Eecloo:Maldegem",
+            "@type": "sc:Manifest",
+            "label": "Maldegem"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Eecloo:Middelbourg",
+            "@type": "sc:Manifest",
+            "label": "Middelbourg"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Eecloo:Oost-Eecloo",
+            "@type": "sc:Manifest",
+            "label": "Oost-Eecloo"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Eecloo:Selzaete",
+            "@type": "sc:Manifest",
+            "label": "Selzaete"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Eecloo:St-Jean-in-Eremo",
+            "@type": "sc:Manifest",
+            "label": "St-Jean-in-Eremo"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Eecloo:St-Laurent",
+            "@type": "sc:Manifest",
+            "label": "St-Laurent"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Eecloo:Ste-Marguerite",
+            "@type": "sc:Manifest",
+            "label": "Ste-Marguerite"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Eecloo:Waterland-Oudeman",
+            "@type": "sc:Manifest",
+            "label": "Waterland-Oudeman"
+        },
+        {
+            "@id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/gereduceerd_kadaster:Eecloo:Watervliet",
+            "@type": "sc:Manifest",
+            "label": "Watervliet"
+        }
+  ]
+}
